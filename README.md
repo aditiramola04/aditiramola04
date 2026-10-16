@@ -161,10 +161,9 @@ A recommendation project using MovieLens data and collaborative filtering.
 ---
 
 ## ✧ Contribution Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditiramola04&bg_color=0B0B14&color=B8A5FF&line=9CCBFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditiramola04&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph" />
 
 </div>
 
