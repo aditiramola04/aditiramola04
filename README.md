@@ -141,26 +141,32 @@ A recommendation project using MovieLens data and collaborative filtering.
 
 ---
 
-## ✧ GitHub Overview
+
+---
+
+## ✦ GitHub Overview
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditiramola04&show_icons=true&hide_border=true&bg_color=0B0B14&title_color=B8A5FF&icon_color=9CCBFF&text_color=D9D6E8" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aditiramola04&show_icons=true&hide_border=true&bg_color=0B0B14&title_color=B8A5FF&icon_color=9CCBFF&text_color=D9D6E8&include_all_commits=true" alt="GitHub Stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiramola04&layout=compact&hide_border=true&bg_color=0B0B14&title_color=B8A5FF&text_color=D9D6E8" alt="Most used languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiramola04&layout=compact&hide_border=true&bg_color=0B0B14&title_color=B8A5FF&text_color=D9D6E8&langs_count=6" alt="Top Languages" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=aditiramola04&hide_border=true&background=0B0B14&ring=B8A5FF&fire=9CCBFF&currStreakLabel=B8A5FF&sideLabels=D9D6E8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B879E" alt="GitHub streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=aditiramola04&hide_border=true&background=0B0B14&ring=B8A5FF&fire=9CCBFF&currStreakLabel=B8A5FF&sideLabels=D9D6E8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B879E" alt="GitHub Streak" />
 
 </div>
 
 ---
 
+---
+
 ## ✧ Contribution Graph
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditiramola04&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditiramola04&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
 
 </div>
 
