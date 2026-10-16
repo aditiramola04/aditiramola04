@@ -59,17 +59,13 @@ An application for asking questions about PDF documents using retrieval-augmente
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile! ✨
-</p>
+
 
 ---
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditiramola04&show_icons=true&hide_border=true" alt="GitHub Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiramola04&layout=compact&hide_border=true" alt="Most Used Languages" />
@@ -84,4 +80,6 @@ An application for asking questions about PDF documents using retrieval-augmente
 </p>
 
 
-
+<p align="center">
+  Thanks for visiting my profile! ✨
+</p>
