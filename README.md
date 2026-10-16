@@ -73,12 +73,9 @@ class Aditi:
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=jupyter&theme=dark" />
-<img src="https://skillicons.dev/icons?i=apple&theme=dark" />
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
-<br/>
-
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
 
 </div>
 
