@@ -162,6 +162,8 @@ A recommendation project using MovieLens data and collaborative filtering.
 
 ---
 
+---
+
 ## ✧ Contribution Graph
 
 <div align="center">
