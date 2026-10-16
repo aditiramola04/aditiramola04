@@ -65,10 +65,19 @@ class Aditi:
 
 <br/><br/>
 
-**Development Environment**
+### Development Environment
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,apple&theme=dark" />
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+
+</div>
 <br/><br/>
 
 **AI & Development**
