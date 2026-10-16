@@ -1,106 +1,122 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050505,50:0d1117,100:00ff9c&text=ADITI%20RAMOLA&fontColor=00ff9c&fontSize=48&fontAlignY=38&desc=AI%2FML%20%7C%20GENERATIVE%20AI%20%7C%20PYTHON&descAlignY=60&descSize=14" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0B0B14,50:17152B,100:24204A&text=ADITI%20RAMOLA&fontColor=E6DEFF&fontSize=48&fontAlignY=42&desc=ASPIRING%20AI%20ENGINEER&descAlignY=68&descSize=16" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;AI%2FML+Developer+in+Progress;Building+Intelligent+Applications;Turning+Ideas+Into+Code." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=B8A5FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%E2%9C%A8;Generative+AI+%26+LLM+Applications;Exploring+AI+Agents+%26+RAG;Turning+Ideas+Into+Intelligent+Systems." alt="Typing animation" />
 
 <br/><br/>
 
 <a href="https://github.com/aditiramola04">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c" />
+<img src="https://img.shields.io/badge/GitHub-11111B?style=for-the-badge&logo=github&logoColor=E6DEFF" />
 </a>
 <a href="https://www.linkedin.com/in/aditiramola/">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" />
+<img src="https://img.shields.io/badge/LinkedIn-11111B?style=for-the-badge&logo=linkedin&logoColor=9CCBFF" />
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aditiramola04&style=flat-square&color=00ff9c&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=aditiramola04&style=flat-square&color=8B7BDB&label=PROFILE+VISITORS" />
 
 </div>
 
 ---
 
-## 💻 `$ whoami`
+## ✦ About Me
 
 ```python
-class Developer:
-    name = "Aditi Ramola"
-    role = "AI/ML Developer"
+class Aditi:
+    role = "Aspiring AI Engineer"
     education = "B.Tech CSE — AI & ML"
 
     interests = [
-        "Machine Learning",
+        "Artificial Intelligence",
         "Generative AI",
-        "NLP",
-        "LLM Applications"
-    ]
-
-    currently_learning = [
-        "RAG",
+        "LLM Applications",
         "AI Agents",
-        "FastAPI",
-        "Data Structures & Algorithms"
+        "RAG Systems"
     ]
 
-    motto = "Learn. Build. Debug. Repeat."
+    exploring = [
+        "Building AI-powered applications",
+        "LLM workflows",
+        "Intelligent automation"
+    ]
+
+    philosophy = "Stay curious. Keep building."
 ```
-
----
-
-## ⚙️ `$ tech-stack`
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,mysql&theme=dark" />
-
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=00ff9c" />
-<img src="https://img.shields.io/badge/Generative%20AI-0d1117?style=for-the-badge&logo=openai&logoColor=00ff9c" />
-<img src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&logo=spacy&logoColor=00ff9c" />
-<img src="https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=00ff9c" />
-<img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=00ff9c" />
+*Curious about intelligence. Passionate about building with AI.*
 
 </div>
 
 ---
 
-## 🚀 `$ featured-projects`
+## ✧ Technologies & Tools
+
+<div align="center">
+
+**Languages & Web Technologies**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css&theme=dark" />
+
+<br/><br/>
+
+**Development Environment**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,apple&theme=dark" />
+
+<br/><br/>
+
+**AI & Development**
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-17152B?style=for-the-badge&logo=probot&logoColor=B8A5FF" />
+<img src="https://img.shields.io/badge/Generative%20AI-17152B?style=for-the-badge&logo=openai&logoColor=B8A5FF" />
+<img src="https://img.shields.io/badge/NLP-17152B?style=for-the-badge&logo=spacy&logoColor=B8A5FF" />
+<img src="https://img.shields.io/badge/Streamlit-17152B?style=for-the-badge&logo=streamlit&logoColor=FF8B8B" />
+<img src="https://img.shields.io/badge/LangChain-17152B?style=for-the-badge&logo=chainlink&logoColor=9CCBFF" />
+<img src="https://img.shields.io/badge/Xcode-17152B?style=for-the-badge&logo=xcode&logoColor=9CCBFF" />
+
+</div>
+
+---
+
+## ✧ Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 Customer Churn Analysis
+<h3>01 · Customer Churn Analysis</h3>
 
-Machine learning project focused on customer churn analysis and prediction.
+An ML project exploring customer churn patterns and prediction.
 
-**Tech:** Python · Machine Learning · Jupyter Notebook
+**Focus**
+- Customer data analysis
+- Machine learning
+- Predictive modelling
 
 <a href="https://github.com/aditiramola04/Customer-Churn-Analysis">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00ff9c?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/Explore%20Project-8B7BDB?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎬 Movie Recommendation System
+<h3>02 · Movie Recommendation System</h3>
 
-Movie recommendation project using MovieLens data and collaborative filtering.
+A recommendation project using MovieLens data and collaborative filtering.
 
-**Tech:** Python · MovieLens · Recommendation Systems
+**Focus**
+- Recommendation systems
+- User–item interactions
+- Personalised recommendations
 
 <a href="https://github.com/aditiramola04/Movie-Recommendation-System">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00ff9c?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/Explore%20Project-8B7BDB?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -109,53 +125,52 @@ Movie recommendation project using MovieLens data and collaborative filtering.
 
 <div align="center">
 
-*More AI/ML and Generative AI projects coming soon...*
+*More intelligent applications in progress.*
 
 </div>
 
 ---
 
-## 📊 `$ github-stats`
+## ✧ GitHub Overview
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditiramola04&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" alt="GitHub Statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditiramola04&show_icons=true&hide_border=true&bg_color=0B0B14&title_color=B8A5FF&icon_color=9CCBFF&text_color=D9D6E8" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiramola04&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiramola04&layout=compact&hide_border=true&bg_color=0B0B14&title_color=B8A5FF&text_color=D9D6E8" alt="Most used languages" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=aditiramola04&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=aditiramola04&hide_border=true&background=0B0B14&ring=B8A5FF&fire=9CCBFF&currStreakLabel=B8A5FF&sideLabels=D9D6E8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B879E" alt="GitHub streak" />
 
 </div>
 
 ---
 
-## 📈 `$ contribution-activity`
+## ✧ Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditiramola04&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditiramola04&bg_color=0B0B14&color=B8A5FF&line=9CCBFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity" />
 
 </div>
 
 ---
 
-## 🌱 `$ currently-building`
-
-- 🤖 Exploring practical Generative AI applications
-- 🧠 Strengthening Machine Learning fundamentals
-- 💻 Practicing Data Structures & Algorithms
-- 🚀 Building projects that solve real problems
-
----
+## ✧ Currently Exploring
 
 <div align="center">
 
-### `while(alive) { learn(); code(); build(); }`
+`GENERATIVE AI`　 `LLMs`　 `RAG`　 `AI AGENTS`
 
-**Thanks for visiting my profile! 💚**
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:050505&height=100&section=footer" width="100%" />
+*Learning to build systems that make technology more useful.*
+
+<br/>
+
+**Thanks for stopping by. Stay curious ✦**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:24204A,50:17152B,100:0B0B14&section=footer" />
 
 </div>
